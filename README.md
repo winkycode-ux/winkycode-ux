@@ -8,14 +8,31 @@ Building thoughtful web products from interface to infrastructure.
 
 </div>
 
-## About
+## About Me
 
-I build complete web applications with a focus on clean architecture, reliable functionality, and a polished user experience.
+I am a Full-Stack Developer working across the modern JavaScript and TypeScript ecosystem. I enjoy taking ideas from an initial concept to a complete, deployed product—designing the interface, building the application logic, connecting databases, and preparing the project for production.
 
-- **Frontend:** responsive, accessible, and intuitive interfaces
-- **Backend:** APIs, integrations, and scalable application logic
-- **Engineering:** readable, maintainable, and production-ready code
-- **Core:** modern JavaScript and TypeScript ecosystem
+On the frontend, I create responsive and intuitive interfaces with React, Next.js, and Vue.js. I use component-driven architecture, predictable state management, and utility-first styling to keep applications consistent, maintainable, and pleasant to use.
+
+On the backend, I build REST APIs and application services with Node.js, Express.js, and NestJS. I work with both relational and document databases, structure projects for long-term growth, and use Docker and modern deployment workflows to deliver reliable applications.
+
+My goal is not simply to make software work, but to make it clear, scalable, and easy to improve. I value thoughtful architecture, readable code, performance, and a polished user experience.
+
+## What I Build
+
+- Full-stack web applications and digital products
+- Responsive interfaces and reusable component systems
+- REST APIs, backend services, and third-party integrations
+- Data-driven applications with PostgreSQL and MongoDB
+- Containerized projects prepared for reliable deployment
+
+## Development Approach
+
+- Start with the user problem and keep the solution practical
+- Prefer clear architecture and maintainable code over unnecessary complexity
+- Build responsive experiences with attention to accessibility and performance
+- Keep frontend, backend, database, and deployment concerns well structured
+- Continuously learn, test ideas, and improve with every iteration
 
 ## Tech Stack
 
@@ -58,7 +75,7 @@ Clarity  •  Quality  •  Performance  •  Continuous learning
 
 ## Current focus
 
-Turning ideas into useful, well-crafted digital products and continuously improving across the full stack.
+I am currently deepening my full-stack expertise, exploring better architecture patterns, and building projects that combine strong interfaces with dependable backend systems. My focus is on creating useful products that are ready to grow—not just demos that work once.
 
 ---
 
