@@ -7,6 +7,8 @@
 Building thoughtful web products from interface to infrastructure.  
 Создаю продуманные веб-продукты — от интерфейса до инфраструктуры.
 
+[![Telegram](https://img.shields.io/badge/Telegram-@winkycode-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/winkycode)
+
 </div>
 
 ## About Me / Обо мне
@@ -116,6 +118,22 @@ I am currently deepening my full-stack expertise, exploring better architecture 
 ### Русский
 
 Сейчас я углубляю знания в full-stack разработке, изучаю более эффективные архитектурные подходы и создаю проекты, которые объединяют качественные интерфейсы с надёжными серверными системами. Мой фокус — полезные продукты, готовые к развитию, а не одноразовые демонстрационные проекты.
+
+## Contact / Связаться со мной
+
+### English
+
+The easiest way to reach me is on Telegram. Feel free to message me about projects, collaboration, or development ideas.
+
+### Русский
+
+Самый удобный способ связаться со мной — Telegram. Пишите по поводу проектов, сотрудничества или идей, связанных с разработкой.
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Message_me-@winkycode-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/winkycode)
+
+</div>
 
 ---
 
